@@ -1,0 +1,32 @@
+{
+    "manifest": {
+        "author": "FunkyFight#8876",
+        "name": "Kirby",
+        "version": "1.0.0",
+        "updater": "https:\/\/github.com\/FunkyFight\/AliucordContent\/blob\/main\/Kirby.json"
+    },
+    "background": {
+        "blur_radius": 2,
+        "url": "https:\/\/media.discordapp.net\/attachments\/945032094344687657\/950849225984466994\/29bebe6606b86cdb93a94eea82baef2e.jpg",
+        "overlay_alpha": 50
+    },
+    "fonts": {},
+    "simple_colors": {
+        "mention_highlight": 2124887404,
+        "active_channel": -4631381,
+        "input_background": -4895066,
+        "background": -708226221,
+        "background_secondary": -725662652
+    },
+    "colors": {
+        "link": -4090074,
+        "primary_500": -10136412,
+        "primary_700": -1225625,
+        "primary_dark_800": -1212249,
+        "white_500": -2703391,
+        "primary_dark_400": -8355712,
+        "primary_dark_200": -8553347
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
