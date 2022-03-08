@@ -3,7 +3,7 @@
         "author": "FunkyFight#8876",
         "name": "Kirby",
         "version": "1.0.0",
-        "updater": "https:\/\/github.com\/FunkyFight\/AliucordContent\/blob\/main\/Kirby.json"
+        "updater": "https:\/\/github.com\/FunkyFight\/AliucordContent\/main\/Themes\/Kirby.json"
     },
     "background": {
         "blur_radius": 2,
