@@ -10,9 +10,6 @@
         "url": "https:\/\/media.discordapp.net\/attachments\/945032094344687657\/950849225984466994\/29bebe6606b86cdb93a94eea82baef2e.jpg",
         "overlay_alpha": 80
     },
-    "fonts": {
-        "*": "https:\/\/github.com\/FunkyFight\/AliucordContent\/raw\/main\/Roboto-Bold.ttf"
-    },
     "simple_colors": {
         "mention_highlight": 2124887404,
         "active_channel": -4631381,
