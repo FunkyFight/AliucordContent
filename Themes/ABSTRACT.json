@@ -1,1 +1,38 @@
-
+{
+    "manifest": {
+        "author": "FunkyFight#8876",
+        "name": "ABSTRACT",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/FunkyFight\/AliucordContent\/main\/Themes\/ABSTRACT.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/929813777879289938\/951366501020094464\/IMG_20220201_180520.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 0,
+        "background_secondary": 0,
+        "mention_highlight": -1736231823,
+        "accent": -549089,
+        "active_channel": -11052869
+    },
+    "colors": {
+        "primary_dark_300": -6643990,
+        "primary_dark_360": -6643990,
+        "primary_dark_400": -2562,
+        "link": -1682039,
+        "primary_dark_660": 467322340,
+        "primary_dark_800": 430800578,
+        "primary_600": -10541107,
+        "primary_630": 375334861,
+        "primary_700": 418689994,
+        "white": -3552823,
+        "white_500": -2439708,
+        "status_grey_200": -12272334
+    },
+    "drawable_tints": {
+        "ic_channel_announcements": -4259772,
+        "ic_channel_text_nsfw": -1212249
+    },
+    "raws": {}
+}
